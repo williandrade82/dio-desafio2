@@ -15,5 +15,5 @@ No final: Subir o arquivo de script par ao repositório GitHub
 
 Copie essa linha para executar o script em servidor ubunto:
 <code>
-wget https://github.com/williandrade82/dio-desafio2/blob/main/script2.sh ; chmod +x script2.sh ; ./script2.sh
+wget https://raw.githubusercontent.com/williandrade82/dio-desafio2/main/script2.sh ; chmod +x script2.sh ; ./script2.sh
 </code>
